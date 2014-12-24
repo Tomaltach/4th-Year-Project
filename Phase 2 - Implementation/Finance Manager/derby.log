@@ -1,0 +1,9 @@
+2013-05-07 11:51:34.294 GMT : Apache Derby Network Server - 10.6.2.1 - (999685) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+2013-05-07 11:51:34.915 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-013e-7ed5-155f-ffffb9ea4597 
+on database directory C:\Users\Spartan-C396\Dropbox\Phase 2 - Implentation\Finance Manager\Farm Finance Manager  with class loader sun.misc.Launcher$AppClassLoader@5acac268 
+Loaded from file:/C:/glassfish3/javadb/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_23-b05
+Database Class Loader started - derby.database.classpath=''
